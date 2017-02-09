@@ -1,6 +1,8 @@
 
 # gt_for_me
 
+## :warning:以下、別のリポジトリ用の下書き:warning:
+
 ### Firebaseトークン認証 on GAE/GO 動確@0208
 
 #### Notice
